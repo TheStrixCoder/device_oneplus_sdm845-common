@@ -26,7 +26,7 @@ DEVICE_PACKAGE_OVERLAYS += \
 -include $(LOCAL_PATH)/system_prop.mk
 
 # A/B
-AB_OTA_UPDATER := true
+#AB_OTA_UPDATER := true
 
 AB_OTA_PARTITIONS += \
     boot \
